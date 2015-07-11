@@ -12,6 +12,7 @@
  *   => `node debug app.js`
  *   => `modulus deploy`
  *   => `heroku scale`
+ *  => `heroku scale`
  *
  *
  * The same command-line arguments are supported, e.g.:
